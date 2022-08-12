@@ -1,0 +1,1 @@
+This is a simple javascipt calculator project to get back o track with JS
